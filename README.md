@@ -1,6 +1,3 @@
-Voici un exemple complet et bien structuré de **README.md** pour ton projet Docker ELK d’archivage de livres 👇
-
----
 
 # 📚 Books Archiver — Projet ELK sous Docker
 
