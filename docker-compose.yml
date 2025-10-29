@@ -1,0 +1,39 @@
+version: '3.7'
+
+services:
+
+  elasticsearch:
+    image: docker.elastic.co/elasticsearch/elasticsearch:8.13.4
+    container_name: elasticsearch_Docker
+    environment:
+      - discovery.type=single-node
+      - xpack.security.enabled=false
+    ports:
+      - "9200:9200"
+    volumes:
+      - esdata:/usr/share/elasticsearch/data
+
+  logstash:
+    image: docker.elastic.co/logstash/logstash:8.13.4
+    container_name: logstash_Docker
+    volumes:
+      - ./logstash/logstash.conf:/usr/share/logstash/pipeline/logstash.conf
+      - /home/ben/Bureau/Scrapy_Project/books/bookscraper/bookscraper:/books_data:ro
+      - /home/ben/Documents/Elastik_Search/archivage:/archivages/books:rw
+    ports:
+      - "5044:5044" # Pour Beats
+    depends_on:
+      - elasticsearch
+
+  kibana:
+    image: docker.elastic.co/kibana/kibana:8.13.4
+    container_name: kibana_docker
+    ports:
+      - "5602:5601"
+    environment:
+      - ELASTICSEARCH_HOSTS=http://elasticsearch:9200
+    depends_on:
+      - elasticsearch
+
+volumes:
+  esdata:
