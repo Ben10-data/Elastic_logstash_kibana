@@ -1,0 +1,1128 @@
+{
+  "log": {
+    "file": {
+      "path": "/books_data/books_data.json"
+    }
+  },
+  "@version": "1",
+  "message": "[",
+  "@timestamp": "2025-07-20T12:51:53.785832483Z",
+  "host": {
+    "name": "dfcf4f99cf9e"
+  },
+  "tags": [
+    "_jsonparsefailure"
+  ]
+}
+{
+  "log": {
+    "file": {
+      "path": "/books_data/books_data.json"
+    }
+  },
+  "url": "catalogue/a-light-in-the-attic_1000/index.html",
+  "@version": "1",
+  "name": "A Light in the ...",
+  "@timestamp": "2025-07-20T12:51:53.798310467Z",
+  "price": 51.77,
+  "event": {
+    "original": "{\"name\": \"A Light in the ...\", \"price\": 51.77, \"url\": \"catalogue/a-light-in-the-attic_1000/index.html\"},"
+  },
+  "host": {
+    "name": "dfcf4f99cf9e"
+  }
+}
+{
+  "log": {
+    "file": {
+      "path": "/books_data/books_data.json"
+    }
+  },
+  "url": "catalogue/the-requiem-red_995/index.html",
+  "@version": "1",
+  "name": "The Requiem Red",
+  "@timestamp": "2025-07-20T12:51:53.806986017Z",
+  "price": 22.65,
+  "event": {
+    "original": "{\"name\": \"The Requiem Red\", \"price\": 22.65, \"url\": \"catalogue/the-requiem-red_995/index.html\"},"
+  },
+  "host": {
+    "name": "dfcf4f99cf9e"
+  }
+}
+{
+  "log": {
+    "file": {
+      "path": "/books_data/books_data.json"
+    }
+  },
+  "url": "catalogue/olio_984/index.html",
+  "@version": "1",
+  "name": "Olio",
+  "@timestamp": "2025-07-20T12:51:53.823581821Z",
+  "price": 23.88,
+  "event": {
+    "original": "{\"name\": \"Olio\", \"price\": 23.88, \"url\": \"catalogue/olio_984/index.html\"},"
+  },
+  "host": {
+    "name": "dfcf4f99cf9e"
+  }
+}
+{
+  "log": {
+    "file": {
+      "path": "/books_data/books_data.json"
+    }
+  },
+  "url": "catalogue/the-black-maria_991/index.html",
+  "@version": "1",
+  "name": "The Black Maria",
+  "@timestamp": "2025-07-20T12:51:53.812309840Z",
+  "price": 52.15,
+  "event": {
+    "original": "{\"name\": \"The Black Maria\", \"price\": 52.15, \"url\": \"catalogue/the-black-maria_991/index.html\"},"
+  },
+  "host": {
+    "name": "dfcf4f99cf9e"
+  }
+}
+{
+  "log": {
+    "file": {
+      "path": "/books_data/books_data.json"
+    }
+  },
+  "url": "catalogue/starving-hearts-triangular-trade-trilogy-1_990/index.html",
+  "@version": "1",
+  "name": "Starving Hearts (Triangular Trade ...",
+  "@timestamp": "2025-07-20T12:51:53.813545671Z",
+  "price": 13.99,
+  "event": {
+    "original": "{\"name\": \"Starving Hearts (Triangular Trade ...\", \"price\": 13.99, \"url\": \"catalogue/starving-hearts-triangular-trade-trilogy-1_990/index.html\"},"
+  },
+  "host": {
+    "name": "dfcf4f99cf9e"
+  }
+}
+{
+  "log": {
+    "file": {
+      "path": "/books_data/books_data.json"
+    }
+  },
+  "url": "catalogue/shakespeares-sonnets_989/index.html",
+  "@version": "1",
+  "name": "Shakespeare's Sonnets",
+  "@timestamp": "2025-07-20T12:51:53.814721577Z",
+  "price": 20.66,
+  "event": {
+    "original": "{\"name\": \"Shakespeare's Sonnets\", \"price\": 20.66, \"url\": \"catalogue/shakespeares-sonnets_989/index.html\"},"
+  },
+  "host": {
+    "name": "dfcf4f99cf9e"
+  }
+}
+{
+  "log": {
+    "file": {
+      "path": "/books_data/books_data.json"
+    }
+  },
+  "url": "catalogue/sapiens-a-brief-history-of-humankind_996/index.html",
+  "@version": "1",
+  "name": "Sapiens: A Brief History ...",
+  "@timestamp": "2025-07-20T12:51:53.805285578Z",
+  "price": 54.23,
+  "event": {
+    "original": "{\"name\": \"Sapiens: A Brief History ...\", \"price\": 54.23, \"url\": \"catalogue/sapiens-a-brief-history-of-humankind_996/index.html\"},"
+  },
+  "host": {
+    "name": "dfcf4f99cf9e"
+  }
+}
+{
+  "log": {
+    "file": {
+      "path": "/books_data/books_data.json"
+    }
+  },
+  "url": "catalogue/our-band-could-be-your-life-scenes-from-the-american-indie-underground-1981-1991_985/index.html",
+  "@version": "1",
+  "name": "Our Band Could Be ...",
+  "@timestamp": "2025-07-20T12:51:53.821845599Z",
+  "price": 57.25,
+  "event": {
+    "original": "{\"name\": \"Our Band Could Be ...\", \"price\": 57.25, \"url\": \"catalogue/our-band-could-be-your-life-scenes-from-the-american-indie-underground-1981-1991_985/index.html\"},"
+  },
+  "host": {
+    "name": "dfcf4f99cf9e"
+  }
+}
+{
+  "log": {
+    "file": {
+      "path": "/books_data/books_data.json"
+    }
+  },
+  "url": "catalogue/the-coming-woman-a-novel-based-on-the-life-of-the-infamous-feminist-victoria-woodhull_993/index.html",
+  "@version": "1",
+  "name": "The Coming Woman: A ...",
+  "@timestamp": "2025-07-20T12:51:53.809914010Z",
+  "price": 17.93,
+  "event": {
+    "original": "{\"name\": \"The Coming Woman: A ...\", \"price\": 17.93, \"url\": \"catalogue/the-coming-woman-a-novel-based-on-the-life-of-the-infamous-feminist-victoria-woodhull_993/index.html\"},"
+  },
+  "host": {
+    "name": "dfcf4f99cf9e"
+  }
+}
+{
+  "log": {
+    "file": {
+      "path": "/books_data/books_data.json"
+    }
+  },
+  "url": "catalogue/libertarianism-for-beginners_982/index.html",
+  "@version": "1",
+  "name": "Libertarianism for Beginners",
+  "@timestamp": "2025-07-20T12:51:53.826443570Z",
+  "price": 51.33,
+  "event": {
+    "original": "{\"name\": \"Libertarianism for Beginners\", \"price\": 51.33, \"url\": \"catalogue/libertarianism-for-beginners_982/index.html\"},"
+  },
+  "host": {
+    "name": "dfcf4f99cf9e"
+  }
+}
+{
+  "log": {
+    "file": {
+      "path": "/books_data/books_data.json"
+    }
+  },
+  "url": "catalogue/sharp-objects_997/index.html",
+  "@version": "1",
+  "name": "Sharp Objects",
+  "@timestamp": "2025-07-20T12:51:53.803155547Z",
+  "price": 47.82,
+  "event": {
+    "original": "{\"name\": \"Sharp Objects\", \"price\": 47.82, \"url\": \"catalogue/sharp-objects_997/index.html\"},"
+  },
+  "host": {
+    "name": "dfcf4f99cf9e"
+  }
+}
+{
+  "log": {
+    "file": {
+      "path": "/books_data/books_data.json"
+    }
+  },
+  "url": "catalogue/rip-it-up-and-start-again_986/index.html",
+  "@version": "1",
+  "name": "Rip it Up and ...",
+  "@timestamp": "2025-07-20T12:51:53.819543580Z",
+  "price": 35.02,
+  "event": {
+    "original": "{\"name\": \"Rip it Up and ...\", \"price\": 35.02, \"url\": \"catalogue/rip-it-up-and-start-again_986/index.html\"},"
+  },
+  "host": {
+    "name": "dfcf4f99cf9e"
+  }
+}
+{
+  "log": {
+    "file": {
+      "path": "/books_data/books_data.json"
+    }
+  },
+  "url": "catalogue/the-boys-in-the-boat-nine-americans-and-their-epic-quest-for-gold-at-the-1936-berlin-olympics_992/index.html",
+  "@version": "1",
+  "name": "The Boys in the ...",
+  "@timestamp": "2025-07-20T12:51:53.811103753Z",
+  "price": 22.6,
+  "event": {
+    "original": "{\"name\": \"The Boys in the ...\", \"price\": 22.6, \"url\": \"catalogue/the-boys-in-the-boat-nine-americans-and-their-epic-quest-for-gold-at-the-1936-berlin-olympics_992/index.html\"},"
+  },
+  "host": {
+    "name": "dfcf4f99cf9e"
+  }
+}
+{
+  "log": {
+    "file": {
+      "path": "/books_data/books_data.json"
+    }
+  },
+  "url": "catalogue/its-only-the-himalayas_981/index.html",
+  "@version": "1",
+  "name": "It's Only the Himalayas",
+  "@timestamp": "2025-07-20T12:51:53.828036113Z",
+  "price": 45.17,
+  "event": {
+    "original": "{\"name\": \"It's Only the Himalayas\", \"price\": 45.17, \"url\": \"catalogue/its-only-the-himalayas_981/index.html\"}"
+  },
+  "host": {
+    "name": "dfcf4f99cf9e"
+  }
+}
+{
+  "log": {
+    "file": {
+      "path": "/books_data/books_data.json"
+    }
+  },
+  "url": "catalogue/scott-pilgrims-precious-little-life-scott-pilgrim-1_987/index.html",
+  "@version": "1",
+  "name": "Scott Pilgrim's Precious Little ...",
+  "@timestamp": "2025-07-20T12:51:53.817605375Z",
+  "price": 52.29,
+  "event": {
+    "original": "{\"name\": \"Scott Pilgrim's Precious Little ...\", \"price\": 52.29, \"url\": \"catalogue/scott-pilgrims-precious-little-life-scott-pilgrim-1_987/index.html\"},"
+  },
+  "host": {
+    "name": "dfcf4f99cf9e"
+  }
+}
+{
+  "log": {
+    "file": {
+      "path": "/books_data/books_data.json"
+    }
+  },
+  "url": "catalogue/tipping-the-velvet_999/index.html",
+  "@version": "1",
+  "name": "Tipping the Velvet",
+  "@timestamp": "2025-07-20T12:51:53.800489085Z",
+  "price": 53.74,
+  "event": {
+    "original": "{\"name\": \"Tipping the Velvet\", \"price\": 53.74, \"url\": \"catalogue/tipping-the-velvet_999/index.html\"},"
+  },
+  "host": {
+    "name": "dfcf4f99cf9e"
+  }
+}
+{
+  "log": {
+    "file": {
+      "path": "/books_data/books_data.json"
+    }
+  },
+  "url": "catalogue/soumission_998/index.html",
+  "@version": "1",
+  "name": "Soumission",
+  "@timestamp": "2025-07-20T12:51:53.801934407Z",
+  "price": 50.1,
+  "event": {
+    "original": "{\"name\": \"Soumission\", \"price\": 50.1, \"url\": \"catalogue/soumission_998/index.html\"},"
+  },
+  "host": {
+    "name": "dfcf4f99cf9e"
+  }
+}
+{
+  "log": {
+    "file": {
+      "path": "/books_data/books_data.json"
+    }
+  },
+  "url": "catalogue/set-me-free_988/index.html",
+  "@version": "1",
+  "name": "Set Me Free",
+  "@timestamp": "2025-07-20T12:51:53.816108165Z",
+  "price": 17.46,
+  "event": {
+    "original": "{\"name\": \"Set Me Free\", \"price\": 17.46, \"url\": \"catalogue/set-me-free_988/index.html\"},"
+  },
+  "host": {
+    "name": "dfcf4f99cf9e"
+  }
+}
+{
+  "log": {
+    "file": {
+      "path": "/books_data/books_data.json"
+    }
+  },
+  "url": "catalogue/the-dirty-little-secrets-of-getting-your-dream-job_994/index.html",
+  "@version": "1",
+  "name": "The Dirty Little Secrets ...",
+  "@timestamp": "2025-07-20T12:51:53.808643505Z",
+  "price": 33.34,
+  "event": {
+    "original": "{\"name\": \"The Dirty Little Secrets ...\", \"price\": 33.34, \"url\": \"catalogue/the-dirty-little-secrets-of-getting-your-dream-job_994/index.html\"},"
+  },
+  "host": {
+    "name": "dfcf4f99cf9e"
+  }
+}
+{
+  "log": {
+    "file": {
+      "path": "/books_data/books_data.json"
+    }
+  },
+  "url": "catalogue/mesaerion-the-best-science-fiction-stories-1800-1849_983/index.html",
+  "@version": "1",
+  "name": "Mesaerion: The Best Science ...",
+  "@timestamp": "2025-07-20T12:51:53.825088494Z",
+  "price": 37.59,
+  "event": {
+    "original": "{\"name\": \"Mesaerion: The Best Science ...\", \"price\": 37.59, \"url\": \"catalogue/mesaerion-the-best-science-fiction-stories-1800-1849_983/index.html\"},"
+  },
+  "host": {
+    "name": "dfcf4f99cf9e"
+  }
+}
+{
+  "log": {
+    "file": {
+      "path": "/books_data/books_data.json"
+    }
+  },
+  "url": "catalogue/a-light-in-the-attic_1000/index.html",
+  "@timestamp": "2025-07-22T00:48:19.543250841Z",
+  "name": "A Light in the ...",
+  "price": 51.77,
+  "@version": "1",
+  "event": {
+    "original": "{\"name\": \"A Light in the ...\", \"price\": 51.77, \"url\": \"catalogue/a-light-in-the-attic_1000/index.html\"},"
+  },
+  "host": {
+    "name": "dfcf4f99cf9e"
+  }
+}
+{
+  "log": {
+    "file": {
+      "path": "/books_data/books_data.json"
+    }
+  },
+  "url": "catalogue/sharp-objects_997/index.html",
+  "@timestamp": "2025-07-22T00:48:19.546762985Z",
+  "name": "Sharp Objects",
+  "price": 47.82,
+  "@version": "1",
+  "event": {
+    "original": "{\"name\": \"Sharp Objects\", \"price\": 47.82, \"url\": \"catalogue/sharp-objects_997/index.html\"},"
+  },
+  "host": {
+    "name": "dfcf4f99cf9e"
+  }
+}
+{
+  "log": {
+    "file": {
+      "path": "/books_data/books_data.json"
+    }
+  },
+  "@timestamp": "2025-07-22T00:48:19.532858230Z",
+  "message": "[",
+  "@version": "1",
+  "host": {
+    "name": "dfcf4f99cf9e"
+  },
+  "tags": [
+    "_jsonparsefailure"
+  ]
+}
+{
+  "log": {
+    "file": {
+      "path": "/books_data/books_data.json"
+    }
+  },
+  "url": "catalogue/the-boys-in-the-boat-nine-americans-and-their-epic-quest-for-gold-at-the-1936-berlin-olympics_992/index.html",
+  "@timestamp": "2025-07-22T00:48:19.550385931Z",
+  "name": "The Boys in the ...",
+  "price": 22.6,
+  "@version": "1",
+  "event": {
+    "original": "{\"name\": \"The Boys in the ...\", \"price\": 22.6, \"url\": \"catalogue/the-boys-in-the-boat-nine-americans-and-their-epic-quest-for-gold-at-the-1936-berlin-olympics_992/index.html\"},"
+  },
+  "host": {
+    "name": "dfcf4f99cf9e"
+  }
+}
+{
+  "log": {
+    "file": {
+      "path": "/books_data/books_data.json"
+    }
+  },
+  "url": "catalogue/its-only-the-himalayas_981/index.html",
+  "@timestamp": "2025-07-22T00:48:19.559085948Z",
+  "name": "It's Only the Himalayas",
+  "price": 45.17,
+  "@version": "1",
+  "event": {
+    "original": "{\"name\": \"It's Only the Himalayas\", \"price\": 45.17, \"url\": \"catalogue/its-only-the-himalayas_981/index.html\"}"
+  },
+  "host": {
+    "name": "dfcf4f99cf9e"
+  }
+}
+{
+  "log": {
+    "file": {
+      "path": "/books_data/books_data.json"
+    }
+  },
+  "url": "catalogue/the-coming-woman-a-novel-based-on-the-life-of-the-infamous-feminist-victoria-woodhull_993/index.html",
+  "@timestamp": "2025-07-22T00:48:19.549727700Z",
+  "name": "The Coming Woman: A ...",
+  "price": 17.93,
+  "@version": "1",
+  "event": {
+    "original": "{\"name\": \"The Coming Woman: A ...\", \"price\": 17.93, \"url\": \"catalogue/the-coming-woman-a-novel-based-on-the-life-of-the-infamous-feminist-victoria-woodhull_993/index.html\"},"
+  },
+  "host": {
+    "name": "dfcf4f99cf9e"
+  }
+}
+{
+  "log": {
+    "file": {
+      "path": "/books_data/books_data.json"
+    }
+  },
+  "url": "catalogue/libertarianism-for-beginners_982/index.html",
+  "@timestamp": "2025-07-22T00:48:19.558401901Z",
+  "name": "Libertarianism for Beginners",
+  "price": 51.33,
+  "@version": "1",
+  "event": {
+    "original": "{\"name\": \"Libertarianism for Beginners\", \"price\": 51.33, \"url\": \"catalogue/libertarianism-for-beginners_982/index.html\"},"
+  },
+  "host": {
+    "name": "dfcf4f99cf9e"
+  }
+}
+{
+  "log": {
+    "file": {
+      "path": "/books_data/books_data.json"
+    }
+  },
+  "url": "catalogue/soumission_998/index.html",
+  "@timestamp": "2025-07-22T00:48:19.545695794Z",
+  "name": "Soumission",
+  "price": 50.1,
+  "@version": "1",
+  "event": {
+    "original": "{\"name\": \"Soumission\", \"price\": 50.1, \"url\": \"catalogue/soumission_998/index.html\"},"
+  },
+  "host": {
+    "name": "dfcf4f99cf9e"
+  }
+}
+{
+  "log": {
+    "file": {
+      "path": "/books_data/books_data.json"
+    }
+  },
+  "url": "catalogue/sapiens-a-brief-history-of-humankind_996/index.html",
+  "@timestamp": "2025-07-22T00:48:19.547568871Z",
+  "name": "Sapiens: A Brief History ...",
+  "price": 54.23,
+  "@version": "1",
+  "event": {
+    "original": "{\"name\": \"Sapiens: A Brief History ...\", \"price\": 54.23, \"url\": \"catalogue/sapiens-a-brief-history-of-humankind_996/index.html\"},"
+  },
+  "host": {
+    "name": "dfcf4f99cf9e"
+  }
+}
+{
+  "log": {
+    "file": {
+      "path": "/books_data/books_data.json"
+    }
+  },
+  "url": "catalogue/the-requiem-red_995/index.html",
+  "@timestamp": "2025-07-22T00:48:19.548270598Z",
+  "name": "The Requiem Red",
+  "price": 22.65,
+  "@version": "1",
+  "event": {
+    "original": "{\"name\": \"The Requiem Red\", \"price\": 22.65, \"url\": \"catalogue/the-requiem-red_995/index.html\"},"
+  },
+  "host": {
+    "name": "dfcf4f99cf9e"
+  }
+}
+{
+  "log": {
+    "file": {
+      "path": "/books_data/books_data.json"
+    }
+  },
+  "url": "catalogue/the-dirty-little-secrets-of-getting-your-dream-job_994/index.html",
+  "@timestamp": "2025-07-22T00:48:19.548966654Z",
+  "name": "The Dirty Little Secrets ...",
+  "price": 33.34,
+  "@version": "1",
+  "event": {
+    "original": "{\"name\": \"The Dirty Little Secrets ...\", \"price\": 33.34, \"url\": \"catalogue/the-dirty-little-secrets-of-getting-your-dream-job_994/index.html\"},"
+  },
+  "host": {
+    "name": "dfcf4f99cf9e"
+  }
+}
+{
+  "log": {
+    "file": {
+      "path": "/books_data/books_data.json"
+    }
+  },
+  "url": "catalogue/the-black-maria_991/index.html",
+  "@timestamp": "2025-07-22T00:48:19.550997975Z",
+  "name": "The Black Maria",
+  "price": 52.15,
+  "@version": "1",
+  "event": {
+    "original": "{\"name\": \"The Black Maria\", \"price\": 52.15, \"url\": \"catalogue/the-black-maria_991/index.html\"},"
+  },
+  "host": {
+    "name": "dfcf4f99cf9e"
+  }
+}
+{
+  "log": {
+    "file": {
+      "path": "/books_data/books_data.json"
+    }
+  },
+  "url": "catalogue/starving-hearts-triangular-trade-trilogy-1_990/index.html",
+  "@timestamp": "2025-07-22T00:48:19.551670492Z",
+  "name": "Starving Hearts (Triangular Trade ...",
+  "price": 13.99,
+  "@version": "1",
+  "event": {
+    "original": "{\"name\": \"Starving Hearts (Triangular Trade ...\", \"price\": 13.99, \"url\": \"catalogue/starving-hearts-triangular-trade-trilogy-1_990/index.html\"},"
+  },
+  "host": {
+    "name": "dfcf4f99cf9e"
+  }
+}
+{
+  "log": {
+    "file": {
+      "path": "/books_data/books_data.json"
+    }
+  },
+  "url": "catalogue/shakespeares-sonnets_989/index.html",
+  "@timestamp": "2025-07-22T00:48:19.552370033Z",
+  "name": "Shakespeare's Sonnets",
+  "price": 20.66,
+  "@version": "1",
+  "event": {
+    "original": "{\"name\": \"Shakespeare's Sonnets\", \"price\": 20.66, \"url\": \"catalogue/shakespeares-sonnets_989/index.html\"},"
+  },
+  "host": {
+    "name": "dfcf4f99cf9e"
+  }
+}
+{
+  "log": {
+    "file": {
+      "path": "/books_data/books_data.json"
+    }
+  },
+  "url": "catalogue/tipping-the-velvet_999/index.html",
+  "@timestamp": "2025-07-22T00:48:19.544622218Z",
+  "name": "Tipping the Velvet",
+  "price": 53.74,
+  "@version": "1",
+  "event": {
+    "original": "{\"name\": \"Tipping the Velvet\", \"price\": 53.74, \"url\": \"catalogue/tipping-the-velvet_999/index.html\"},"
+  },
+  "host": {
+    "name": "dfcf4f99cf9e"
+  }
+}
+{
+  "log": {
+    "file": {
+      "path": "/books_data/books_data.json"
+    }
+  },
+  "url": "catalogue/set-me-free_988/index.html",
+  "@timestamp": "2025-07-22T00:48:19.553021466Z",
+  "name": "Set Me Free",
+  "price": 17.46,
+  "@version": "1",
+  "event": {
+    "original": "{\"name\": \"Set Me Free\", \"price\": 17.46, \"url\": \"catalogue/set-me-free_988/index.html\"},"
+  },
+  "host": {
+    "name": "dfcf4f99cf9e"
+  }
+}
+{
+  "log": {
+    "file": {
+      "path": "/books_data/books_data.json"
+    }
+  },
+  "url": "catalogue/scott-pilgrims-precious-little-life-scott-pilgrim-1_987/index.html",
+  "@timestamp": "2025-07-22T00:48:19.554916416Z",
+  "name": "Scott Pilgrim's Precious Little ...",
+  "price": 52.29,
+  "@version": "1",
+  "event": {
+    "original": "{\"name\": \"Scott Pilgrim's Precious Little ...\", \"price\": 52.29, \"url\": \"catalogue/scott-pilgrims-precious-little-life-scott-pilgrim-1_987/index.html\"},"
+  },
+  "host": {
+    "name": "dfcf4f99cf9e"
+  }
+}
+{
+  "log": {
+    "file": {
+      "path": "/books_data/books_data.json"
+    }
+  },
+  "url": "catalogue/rip-it-up-and-start-again_986/index.html",
+  "@timestamp": "2025-07-22T00:48:19.555676004Z",
+  "name": "Rip it Up and ...",
+  "price": 35.02,
+  "@version": "1",
+  "event": {
+    "original": "{\"name\": \"Rip it Up and ...\", \"price\": 35.02, \"url\": \"catalogue/rip-it-up-and-start-again_986/index.html\"},"
+  },
+  "host": {
+    "name": "dfcf4f99cf9e"
+  }
+}
+{
+  "log": {
+    "file": {
+      "path": "/books_data/books_data.json"
+    }
+  },
+  "url": "catalogue/our-band-could-be-your-life-scenes-from-the-american-indie-underground-1981-1991_985/index.html",
+  "@timestamp": "2025-07-22T00:48:19.556331193Z",
+  "name": "Our Band Could Be ...",
+  "price": 57.25,
+  "@version": "1",
+  "event": {
+    "original": "{\"name\": \"Our Band Could Be ...\", \"price\": 57.25, \"url\": \"catalogue/our-band-could-be-your-life-scenes-from-the-american-indie-underground-1981-1991_985/index.html\"},"
+  },
+  "host": {
+    "name": "dfcf4f99cf9e"
+  }
+}
+{
+  "log": {
+    "file": {
+      "path": "/books_data/books_data.json"
+    }
+  },
+  "url": "catalogue/olio_984/index.html",
+  "@timestamp": "2025-07-22T00:48:19.556953623Z",
+  "name": "Olio",
+  "price": 23.88,
+  "@version": "1",
+  "event": {
+    "original": "{\"name\": \"Olio\", \"price\": 23.88, \"url\": \"catalogue/olio_984/index.html\"},"
+  },
+  "host": {
+    "name": "dfcf4f99cf9e"
+  }
+}
+{
+  "log": {
+    "file": {
+      "path": "/books_data/books_data.json"
+    }
+  },
+  "url": "catalogue/mesaerion-the-best-science-fiction-stories-1800-1849_983/index.html",
+  "@timestamp": "2025-07-22T00:48:19.557554905Z",
+  "name": "Mesaerion: The Best Science ...",
+  "price": 37.59,
+  "@version": "1",
+  "event": {
+    "original": "{\"name\": \"Mesaerion: The Best Science ...\", \"price\": 37.59, \"url\": \"catalogue/mesaerion-the-best-science-fiction-stories-1800-1849_983/index.html\"},"
+  },
+  "host": {
+    "name": "dfcf4f99cf9e"
+  }
+}
+{
+  "event": {
+    "original": "{\"name\": \"Soumission\", \"price\": 50.1, \"url\": \"catalogue/soumission_998/index.html\"},"
+  },
+  "host": {
+    "name": "dfcf4f99cf9e"
+  },
+  "url": "catalogue/soumission_998/index.html",
+  "name": "Soumission",
+  "log": {
+    "file": {
+      "path": "/books_data/books_data.json"
+    }
+  },
+  "@timestamp": "2025-07-22T10:55:32.811541723Z",
+  "price": 50.1,
+  "@version": "1"
+}
+{
+  "event": {
+    "original": "{\"name\": \"Sharp Objects\", \"price\": 47.82, \"url\": \"catalogue/sharp-objects_997/index.html\"},"
+  },
+  "host": {
+    "name": "dfcf4f99cf9e"
+  },
+  "url": "catalogue/sharp-objects_997/index.html",
+  "name": "Sharp Objects",
+  "log": {
+    "file": {
+      "path": "/books_data/books_data.json"
+    }
+  },
+  "@timestamp": "2025-07-22T10:55:32.813734445Z",
+  "price": 47.82,
+  "@version": "1"
+}
+{
+  "event": {
+    "original": "{\"name\": \"Rip it Up and ...\", \"price\": 35.02, \"url\": \"catalogue/rip-it-up-and-start-again_986/index.html\"},"
+  },
+  "host": {
+    "name": "dfcf4f99cf9e"
+  },
+  "url": "catalogue/rip-it-up-and-start-again_986/index.html",
+  "name": "Rip it Up and ...",
+  "log": {
+    "file": {
+      "path": "/books_data/books_data.json"
+    }
+  },
+  "@timestamp": "2025-07-22T10:55:32.833620983Z",
+  "price": 35.02,
+  "@version": "1"
+}
+{
+  "event": {
+    "original": "{\"name\": \"The Coming Woman: A ...\", \"price\": 17.93, \"url\": \"catalogue/the-coming-woman-a-novel-based-on-the-life-of-the-infamous-feminist-victoria-woodhull_993/index.html\"},"
+  },
+  "host": {
+    "name": "dfcf4f99cf9e"
+  },
+  "url": "catalogue/the-coming-woman-a-novel-based-on-the-life-of-the-infamous-feminist-victoria-woodhull_993/index.html",
+  "name": "The Coming Woman: A ...",
+  "log": {
+    "file": {
+      "path": "/books_data/books_data.json"
+    }
+  },
+  "@timestamp": "2025-07-22T10:55:32.821150267Z",
+  "price": 17.93,
+  "@version": "1"
+}
+{
+  "event": {
+    "original": "{\"name\": \"The Requiem Red\", \"price\": 22.65, \"url\": \"catalogue/the-requiem-red_995/index.html\"},"
+  },
+  "host": {
+    "name": "dfcf4f99cf9e"
+  },
+  "url": "catalogue/the-requiem-red_995/index.html",
+  "name": "The Requiem Red",
+  "log": {
+    "file": {
+      "path": "/books_data/books_data.json"
+    }
+  },
+  "@timestamp": "2025-07-22T10:55:32.816804822Z",
+  "price": 22.65,
+  "@version": "1"
+}
+{
+  "event": {
+    "original": "{\"name\": \"Olio\", \"price\": 23.88, \"url\": \"catalogue/olio_984/index.html\"},"
+  },
+  "host": {
+    "name": "dfcf4f99cf9e"
+  },
+  "url": "catalogue/olio_984/index.html",
+  "name": "Olio",
+  "log": {
+    "file": {
+      "path": "/books_data/books_data.json"
+    }
+  },
+  "@timestamp": "2025-07-22T10:55:32.838776557Z",
+  "price": 23.88,
+  "@version": "1"
+}
+{
+  "tags": [
+    "_jsonparsefailure"
+  ],
+  "message": "[",
+  "log": {
+    "file": {
+      "path": "/books_data/books_data.json"
+    }
+  },
+  "host": {
+    "name": "dfcf4f99cf9e"
+  },
+  "@timestamp": "2025-07-22T10:55:32.792681905Z",
+  "@version": "1"
+}
+{
+  "event": {
+    "original": "{\"name\": \"Tipping the Velvet\", \"price\": 53.74, \"url\": \"catalogue/tipping-the-velvet_999/index.html\"},"
+  },
+  "host": {
+    "name": "dfcf4f99cf9e"
+  },
+  "url": "catalogue/tipping-the-velvet_999/index.html",
+  "name": "Tipping the Velvet",
+  "log": {
+    "file": {
+      "path": "/books_data/books_data.json"
+    }
+  },
+  "@timestamp": "2025-07-22T10:55:32.809509308Z",
+  "price": 53.74,
+  "@version": "1"
+}
+{
+  "event": {
+    "original": "{\"name\": \"Set Me Free\", \"price\": 17.46, \"url\": \"catalogue/set-me-free_988/index.html\"},"
+  },
+  "host": {
+    "name": "dfcf4f99cf9e"
+  },
+  "url": "catalogue/set-me-free_988/index.html",
+  "name": "Set Me Free",
+  "log": {
+    "file": {
+      "path": "/books_data/books_data.json"
+    }
+  },
+  "@timestamp": "2025-07-22T10:55:32.830754565Z",
+  "price": 17.46,
+  "@version": "1"
+}
+{
+  "event": {
+    "original": "{\"name\": \"Scott Pilgrim's Precious Little ...\", \"price\": 52.29, \"url\": \"catalogue/scott-pilgrims-precious-little-life-scott-pilgrim-1_987/index.html\"},"
+  },
+  "host": {
+    "name": "dfcf4f99cf9e"
+  },
+  "url": "catalogue/scott-pilgrims-precious-little-life-scott-pilgrim-1_987/index.html",
+  "name": "Scott Pilgrim's Precious Little ...",
+  "log": {
+    "file": {
+      "path": "/books_data/books_data.json"
+    }
+  },
+  "@timestamp": "2025-07-22T10:55:32.832014431Z",
+  "price": 52.29,
+  "@version": "1"
+}
+{
+  "event": {
+    "original": "{\"name\": \"A Light in the ...\", \"price\": 51.77, \"url\": \"catalogue/a-light-in-the-attic_1000/index.html\"},"
+  },
+  "host": {
+    "name": "dfcf4f99cf9e"
+  },
+  "url": "catalogue/a-light-in-the-attic_1000/index.html",
+  "name": "A Light in the ...",
+  "log": {
+    "file": {
+      "path": "/books_data/books_data.json"
+    }
+  },
+  "@timestamp": "2025-07-22T10:55:32.807218842Z",
+  "price": 51.77,
+  "@version": "1"
+}
+{
+  "event": {
+    "original": "{\"name\": \"Starving Hearts (Triangular Trade ...\", \"price\": 13.99, \"url\": \"catalogue/starving-hearts-triangular-trade-trilogy-1_990/index.html\"},"
+  },
+  "host": {
+    "name": "dfcf4f99cf9e"
+  },
+  "url": "catalogue/starving-hearts-triangular-trade-trilogy-1_990/index.html",
+  "name": "Starving Hearts (Triangular Trade ...",
+  "log": {
+    "file": {
+      "path": "/books_data/books_data.json"
+    }
+  },
+  "@timestamp": "2025-07-22T10:55:32.827679766Z",
+  "price": 13.99,
+  "@version": "1"
+}
+{
+  "event": {
+    "original": "{\"name\": \"The Boys in the ...\", \"price\": 22.6, \"url\": \"catalogue/the-boys-in-the-boat-nine-americans-and-their-epic-quest-for-gold-at-the-1936-berlin-olympics_992/index.html\"},"
+  },
+  "host": {
+    "name": "dfcf4f99cf9e"
+  },
+  "url": "catalogue/the-boys-in-the-boat-nine-americans-and-their-epic-quest-for-gold-at-the-1936-berlin-olympics_992/index.html",
+  "name": "The Boys in the ...",
+  "log": {
+    "file": {
+      "path": "/books_data/books_data.json"
+    }
+  },
+  "@timestamp": "2025-07-22T10:55:32.823462596Z",
+  "price": 22.6,
+  "@version": "1"
+}
+{
+  "event": {
+    "original": "{\"name\": \"Shakespeare's Sonnets\", \"price\": 20.66, \"url\": \"catalogue/shakespeares-sonnets_989/index.html\"},"
+  },
+  "host": {
+    "name": "dfcf4f99cf9e"
+  },
+  "url": "catalogue/shakespeares-sonnets_989/index.html",
+  "name": "Shakespeare's Sonnets",
+  "log": {
+    "file": {
+      "path": "/books_data/books_data.json"
+    }
+  },
+  "@timestamp": "2025-07-22T10:55:32.829205548Z",
+  "price": 20.66,
+  "@version": "1"
+}
+{
+  "event": {
+    "original": "{\"name\": \"The Black Maria\", \"price\": 52.15, \"url\": \"catalogue/the-black-maria_991/index.html\"},"
+  },
+  "host": {
+    "name": "dfcf4f99cf9e"
+  },
+  "url": "catalogue/the-black-maria_991/index.html",
+  "name": "The Black Maria",
+  "log": {
+    "file": {
+      "path": "/books_data/books_data.json"
+    }
+  },
+  "@timestamp": "2025-07-22T10:55:32.825898241Z",
+  "price": 52.15,
+  "@version": "1"
+}
+{
+  "event": {
+    "original": "{\"name\": \"The Dirty Little Secrets ...\", \"price\": 33.34, \"url\": \"catalogue/the-dirty-little-secrets-of-getting-your-dream-job_994/index.html\"},"
+  },
+  "host": {
+    "name": "dfcf4f99cf9e"
+  },
+  "url": "catalogue/the-dirty-little-secrets-of-getting-your-dream-job_994/index.html",
+  "name": "The Dirty Little Secrets ...",
+  "log": {
+    "file": {
+      "path": "/books_data/books_data.json"
+    }
+  },
+  "@timestamp": "2025-07-22T10:55:32.818762673Z",
+  "price": 33.34,
+  "@version": "1"
+}
+{
+  "event": {
+    "original": "{\"name\": \"Mesaerion: The Best Science ...\", \"price\": 37.59, \"url\": \"catalogue/mesaerion-the-best-science-fiction-stories-1800-1849_983/index.html\"},"
+  },
+  "host": {
+    "name": "dfcf4f99cf9e"
+  },
+  "url": "catalogue/mesaerion-the-best-science-fiction-stories-1800-1849_983/index.html",
+  "name": "Mesaerion: The Best Science ...",
+  "log": {
+    "file": {
+      "path": "/books_data/books_data.json"
+    }
+  },
+  "@timestamp": "2025-07-22T10:55:32.840034812Z",
+  "price": 37.59,
+  "@version": "1"
+}
+{
+  "event": {
+    "original": "{\"name\": \"Libertarianism for Beginners\", \"price\": 51.33, \"url\": \"catalogue/libertarianism-for-beginners_982/index.html\"},"
+  },
+  "host": {
+    "name": "dfcf4f99cf9e"
+  },
+  "url": "catalogue/libertarianism-for-beginners_982/index.html",
+  "name": "Libertarianism for Beginners",
+  "log": {
+    "file": {
+      "path": "/books_data/books_data.json"
+    }
+  },
+  "@timestamp": "2025-07-22T10:55:32.841140881Z",
+  "price": 51.33,
+  "@version": "1"
+}
+{
+  "event": {
+    "original": "{\"name\": \"It's Only the Himalayas\", \"price\": 45.17, \"url\": \"catalogue/its-only-the-himalayas_981/index.html\"}"
+  },
+  "host": {
+    "name": "dfcf4f99cf9e"
+  },
+  "url": "catalogue/its-only-the-himalayas_981/index.html",
+  "name": "It's Only the Himalayas",
+  "log": {
+    "file": {
+      "path": "/books_data/books_data.json"
+    }
+  },
+  "@timestamp": "2025-07-22T10:55:32.842008955Z",
+  "price": 45.17,
+  "@version": "1"
+}
+{
+  "event": {
+    "original": "{\"name\": \"Sapiens: A Brief History ...\", \"price\": 54.23, \"url\": \"catalogue/sapiens-a-brief-history-of-humankind_996/index.html\"},"
+  },
+  "host": {
+    "name": "dfcf4f99cf9e"
+  },
+  "url": "catalogue/sapiens-a-brief-history-of-humankind_996/index.html",
+  "name": "Sapiens: A Brief History ...",
+  "log": {
+    "file": {
+      "path": "/books_data/books_data.json"
+    }
+  },
+  "@timestamp": "2025-07-22T10:55:32.815378503Z",
+  "price": 54.23,
+  "@version": "1"
+}
+{
+  "event": {
+    "original": "{\"name\": \"Our Band Could Be ...\", \"price\": 57.25, \"url\": \"catalogue/our-band-could-be-your-life-scenes-from-the-american-indie-underground-1981-1991_985/index.html\"},"
+  },
+  "host": {
+    "name": "dfcf4f99cf9e"
+  },
+  "url": "catalogue/our-band-could-be-your-life-scenes-from-the-american-indie-underground-1981-1991_985/index.html",
+  "name": "Our Band Could Be ...",
+  "log": {
+    "file": {
+      "path": "/books_data/books_data.json"
+    }
+  },
+  "@timestamp": "2025-07-22T10:55:32.834776165Z",
+  "price": 57.25,
+  "@version": "1"
+}
